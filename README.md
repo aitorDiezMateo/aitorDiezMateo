@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aitor Díez Mateo</h1>
 <h3 align="center">AI/Data Science & Computer Engineering student at University of Deusto | Spain</h3>
 
-- <p align="left"> 🌐 <a href="https://aitordiezmateo.github.io/" target="_blank">my personal website</a></p>
+- <p align="left"> 🌐 Check my personal website <a href="https://aitordiezmateo.github.io/" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
 - ⚡ **Passionate about technology and data. I’m pursuing a double degree in Computer Engineering and Data Science & AI, with strong foundations in programming, machine learning, and data analysis. I work on projects involving classification, regression, clustering, and real-world data challenges, aiming to create impactful, data-driven solutions.**
 
